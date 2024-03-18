@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+#featured-property figure {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+
+nav a {
+  padding: 10px;
+  background-color: grey;
+}
+#featured-property figcaption {
+  font-size: 14px; /* Adjust font size as needed */
+  text-align: center;
+}
+#featured-property p {
+  width: 800px;
+  margin: 0 auto; /* Center the paragraphs */
+}
+#details div {
+  float: left;
+  width: 25%; /* Each div occupies 25% of the width */
+}
+#details div {
+  background-color: lightgrey; /* Set background color */
+  text-align: center; /* Center the text */
+}
